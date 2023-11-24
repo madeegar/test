@@ -1,2 +1,2 @@
 TESTING = testing
-123 = 123
+membuat 000
